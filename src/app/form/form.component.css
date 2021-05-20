@@ -1,0 +1,18 @@
+
+.votes{
+    font-size: 30px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+div img{
+    cursor:pointer;
+    
+}
+
+li{
+    list-style: none;
+}
+.quotefoot{
+    display: flex;
+    justify-content: space-between;
+}
