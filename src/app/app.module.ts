@@ -18,6 +18,7 @@ import { VoteComponent } from './vote/vote.component';
     HighlightDirective,
     DatePipe,
     VoteComponent,
+    DetailsComponent
    
   ],
   imports: [
